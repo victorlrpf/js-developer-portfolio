@@ -1,7 +1,7 @@
 {
   "name": "Victor Ferreira",
   "photo": "https://avatars.githubusercontent.com/u/113861450?v=4",
-  "job": "Desenvolvedor Front-End",
+  "job": "Desenvolvedor Full-Stack",
   "location": "Americana - SP",
   "phone": "(19) 99280-2691",
   "email": "victorlrpf@gmail.com",
@@ -68,8 +68,13 @@
   ],
   "professionalExperience": [
     {
+      "name": "Desenvolvedor Full-Stack / BPMdevv",
+      "period": "2024 - até o momento",
+      "description": "Atuo como desenvolvedor full-stack c#, realizo criação de projetos e manutenções e auxilio em duvidas com relação a vue.js."
+    },
+    {
       "name": "Desenvolvedor Front-end / PersonalSoft",
-      "period": "2023 - até o momento",
+      "period": "2023 - 2024",
       "description": "Minha primeira oportunidade após o termino da minha faculdae, onde é um prazer trabalhar com pessoas excepcionais."
     },
     {
